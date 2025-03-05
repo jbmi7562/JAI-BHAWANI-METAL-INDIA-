@@ -1,0 +1,15 @@
+/jai-bhawani-metal-india
+│
+├── /assets
+│   ├── /images
+│   │   └── (Product images, company logo, etc.)
+│   └── /css
+│       └── style.css
+│   └── /js
+│       └── script.js
+│
+├── index.html (Home Page)
+├── about.html (About Us Page)
+├── products.html (Products Page)
+├── services.html (Services Page)
+└── contact.html (Contact Us Page)
