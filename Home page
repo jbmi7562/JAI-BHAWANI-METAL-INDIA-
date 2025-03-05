@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JAI BHAWANI METAL INDIA</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="products.html">Products</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home">
+        <div class="banner">
+            <h1>Welcome to JAI BHAWANI METAL INDIA</h1>
+            <p>Your Trusted Stockist & Supplier of Stainless Steel and Mild Steel</p>
+            <a href="contact.html" class="cta">Request a Quote</a>
+        </div>
+    </section>
+
+    <section id="about-summary">
+        <h2>About Us</h2>
+        <p>We are stockists and suppliers of premium stainless steel and mild steel products. With 5 years of experience, we offer the best rates and quality in every order.</p>
+        <a href="about.html">Read More</a>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 JAI BHAWANI METAL INDIA</p>
+    </footer>
+</body>
+</html>
